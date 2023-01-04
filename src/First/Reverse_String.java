@@ -15,7 +15,7 @@ public class Reverse_String {
 			reverse = reverse + str.charAt(i);
 		}
 		
-		System.out.println(reverse);
+		System.out.println("This is solution" + " "+ reverse);
 	}
 
 }
