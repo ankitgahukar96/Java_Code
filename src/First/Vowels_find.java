@@ -5,6 +5,7 @@ public class Vowels_find {
 		
 		String word = "I am Ankit Rambhau Gahukar";
 		
+		
 		String str = word.toUpperCase();
 		System.out.println(str);
 		
@@ -19,5 +20,5 @@ public class Vowels_find {
 		}
 		
 	}
-
+	
 }
