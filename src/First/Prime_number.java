@@ -22,3 +22,15 @@ public static boolean isPrime(int n) {
 	return true;
 }
 }
+
+//int num = 7;
+//int temp;
+//boolean isPrime=true;
+//for(int i =2;i<=num/2;i++) {
+//	temp= num%2;
+//	if(temp==0) {
+//		isPrime=false;
+//		break;
+//	}
+//	return isPrime;
+//}
