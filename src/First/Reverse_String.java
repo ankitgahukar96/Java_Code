@@ -29,6 +29,4 @@ public class Reverse_String {
 //		System.out.println(stringBuilder.toString());
 	}
 	
-	
-
 }
