@@ -1,0 +1,21 @@
+package FirstEx;
+
+public class MyThread implements Runnable {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public void run() {
+		// TODO Auto-generated method stub
+		MyThread t = new MyThread("Ankit");
+		
+		Thread thread = new Thread(t);
+		
+		thread.start();
+		
+	}
+
+}

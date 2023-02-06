@@ -1,0 +1,15 @@
+package Demo1;
+
+import javax.swing.*;
+
+public class MyWindow extends JFrame{
+	
+	public MyWindow() {
+		// TODO Auto-generated constructor stub
+		super.setTitle("My clock");
+		super.setSize(400,400);
+		
+		
+	}
+
+}

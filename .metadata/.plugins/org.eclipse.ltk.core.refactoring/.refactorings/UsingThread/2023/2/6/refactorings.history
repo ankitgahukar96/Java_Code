@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;FirstEx.XYZRunable&apos; to &apos;MyThread&apos;&#x0D;&#x0A;- Original project: &apos;UsingThread&apos;&#x0D;&#x0A;- Original element: &apos;FirstEx.XYZRunable&apos;&#x0D;&#x0A;- Renamed element: &apos;FirstEx.MyThread&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;XYZRunable&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;FirstEx{XYZRunable.java[XYZRunable" matchStrategy="1" name="MyThread" qualified="false" references="true" similarDeclarations="false" stamp="1675676489700" textual="false" version="1.0"/>
+</session>
